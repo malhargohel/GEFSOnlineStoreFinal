@@ -1,0 +1,89 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <UserSecretsId>aspnet-GEFSOnlineStoreFinal-99F40CAA-6E4E-49FD-8AE3-5BD3DB37C713</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="ProductsShop.csproj" />
+    <None Include="Properties\serviceDependencies.local.json.user" />
+    <None Include="Views\Home\AboutUs.cshtml" />
+    <None Include="Views\Home\ContactUs.cshtml" />
+    <None Include="Views\Home\Index.cshtml" />
+    <None Include="Views\Home\Privacy.cshtml" />
+    <None Include="Views\Product\AddNewProduct.cshtml" />
+    <None Include="Views\Product\GetAllProducts.cshtml" />
+    <None Include="Views\Product\GetProduct.cshtml" />
+    <None Include="Views\Shared\Components\TopProducts\Default.cshtml" />
+    <None Include="Views\Shared\Error.cshtml" />
+    <None Include="Views\Shared\_Layout.cshtml" />
+    <None Include="Views\Shared\_productThumbnail.cshtml" />
+    <None Include="Views\Shared\_ValidationScriptsPartial.cshtml" />
+    <None Include="Views\_ViewImports.cshtml" />
+    <None Include="Views\_ViewStart.cshtml" />
+    <None Include="wwwroot\js\site.js" />
+    <None Include="wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map" />
+    <None Include="wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map" />
+    <None Include="wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map" />
+    <None Include="wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map" />
+    <None Include="wwwroot\lib\bootstrap\dist\css\bootstrap.css.map" />
+    <None Include="wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map" />
+    <None Include="wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js" />
+    <None Include="wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map" />
+    <None Include="wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js" />
+    <None Include="wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map" />
+    <None Include="wwwroot\lib\bootstrap\dist\js\bootstrap.js" />
+    <None Include="wwwroot\lib\bootstrap\dist\js\bootstrap.js.map" />
+    <None Include="wwwroot\lib\bootstrap\dist\js\bootstrap.min.js" />
+    <None Include="wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map" />
+    <None Include="wwwroot\lib\bootstrap\LICENSE" />
+    <None Include="wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js" />
+    <None Include="wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js" />
+    <None Include="wwwroot\lib\jquery-validation\dist\additional-methods.js" />
+    <None Include="wwwroot\lib\jquery-validation\dist\additional-methods.min.js" />
+    <None Include="wwwroot\lib\jquery-validation\dist\jquery.validate.js" />
+    <None Include="wwwroot\lib\jquery-validation\dist\jquery.validate.min.js" />
+    <None Include="wwwroot\lib\jquery-validation\LICENSE.md" />
+    <None Include="wwwroot\lib\jquery\core.js" />
+    <None Include="wwwroot\lib\jquery\dist\jquery.js" />
+    <None Include="wwwroot\lib\jquery\dist\jquery.min.js" />
+    <None Include="wwwroot\lib\jquery\dist\jquery.min.map" />
+    <None Include="wwwroot\lib\jquery\jquery.js" />
+    <None Include="wwwroot\lib\jquery\jquery.min.js" />
+    <None Include="wwwroot\lib\jquery\jquery.min.map" />
+    <None Include="wwwroot\lib\jquery\jquery.slim.js" />
+    <None Include="wwwroot\lib\jquery\jquery.slim.min.js" />
+    <None Include="wwwroot\lib\jquery\jquery.slim.min.map" />
+    <None Include="wwwroot\lib\twitter-bootstrap\css\bootstrap-grid.css.map" />
+    <None Include="wwwroot\lib\twitter-bootstrap\css\bootstrap-grid.min.css.map" />
+    <None Include="wwwroot\lib\twitter-bootstrap\css\bootstrap-reboot.css.map" />
+    <None Include="wwwroot\lib\twitter-bootstrap\css\bootstrap-reboot.min.css.map" />
+    <None Include="wwwroot\lib\twitter-bootstrap\css\bootstrap.css.map" />
+    <None Include="wwwroot\lib\twitter-bootstrap\css\bootstrap.min.css.map" />
+    <None Include="wwwroot\lib\twitter-bootstrap\js\bootstrap.bundle.js" />
+    <None Include="wwwroot\lib\twitter-bootstrap\js\bootstrap.bundle.js.map" />
+    <None Include="wwwroot\lib\twitter-bootstrap\js\bootstrap.bundle.min.js" />
+    <None Include="wwwroot\lib\twitter-bootstrap\js\bootstrap.bundle.min.js.map" />
+    <None Include="wwwroot\lib\twitter-bootstrap\js\bootstrap.js" />
+    <None Include="wwwroot\lib\twitter-bootstrap\js\bootstrap.js.map" />
+    <None Include="wwwroot\lib\twitter-bootstrap\js\bootstrap.min.js" />
+    <None Include="wwwroot\lib\twitter-bootstrap\js\bootstrap.min.js.map" />
+    <None Include="wwwroot\Products\pdf\24c2cd77-c55e-4805-b68d-d7f166493f1e_Book and Tent systems.pdf" />
+    <None Include="wwwroot\Products\pdf\3a178703-7a48-4961-b396-2699033c72ee_Software Development_print.pdf" />
+    <None Include="wwwroot\Products\pdf\814f811c-fb63-4bdc-9f6c-50beab19e17c_Book and Tent systems.pdf" />
+    <None Include="wwwroot\Products\pdf\aa4cf86f-746a-4621-a922-a3f76581f40f_School_Management_System_-Use_Case_Diagr.pdf" />
+    <None Include="wwwroot\Products\pdf\ab454b26-4b6f-48c2-9a6c-89f858f02a40_AS91107 2020 Student Task booklet CPS-Aziz.pdf" />
+    <None Include="wwwroot\Products\pdf\b83d2559-7196-420d-a12e-b5d107d8c3ca_Book and Tent systems.pdf" />
+    <None Include="wwwroot\Products\pdf\f65342e3-41c6-497f-aed4-8e81de0f1caa_Book and Tent systems.pdf" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore" Version="5.0.12" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="5.0.12" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="5.0.12" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="5.0.12" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="5.0.12" />
+  </ItemGroup>
+
+</Project>
